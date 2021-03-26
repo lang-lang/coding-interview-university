@@ -39,7 +39,7 @@ Translations in progress:
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+![Coding at the whiteboard - from HBO's Silicon Valley](https://camo.githubusercontent.com/223e9758b09eb2908cb04c01c05f6e8550596dfd1526db5a2895c471b378a538/68747470733a2f2f64336a32706b6d6a74696e366f752e636c6f756466726f6e742e6e65742f636f64696e672d61742d7468652d7768697465626f6172642d73696c69636f6e2d76616c6c65792e706e67)
 
 This is meant for **new software engineers** or those switching from
 software/web development to software engineering (where computer science knowledge is required). If you have
